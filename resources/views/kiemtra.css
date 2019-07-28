@@ -1,0 +1,26 @@
+
+hhg-health-tools-item a img {
+    display: inline-block;
+    height: 60px;
+    width: auto;
+    max-width: 100%;
+    border: 0;
+}
+.hhg-health-tools-item a {
+    display: block;
+    text-align: center;
+    padding: 25px;
+}
+.hhg-health-tools-item a span {
+    display: block;
+    font-size: 11px;
+    line-height: 1.42;
+    color: #919191;
+}
+.hhg-health-tools-item strong{
+    display: block;
+    font-size: 18px;
+    line-height: 1.42;
+    color: black;
+    font-weight: bold;
+}

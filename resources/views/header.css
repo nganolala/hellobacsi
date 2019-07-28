@@ -1,0 +1,55 @@
+.menu-button{
+    background-color: transparent;
+    padding: 6px;
+    font-size: 14px;
+    border: 1px solid white;
+}
+.center-menu{
+    position: relative;
+    display: inline-block;
+    float: center;
+}
+.dropdown-menu{
+    display: none;
+    position: absolute;
+    background-color: lightgrey;
+    min-width: 158px;
+    z-index: 1;
+}
+.dropdown-menu a:hover{
+    background-color: lightgrey;
+    color: black;
+}
+.center-menu:hover .dropdown-menu{
+    display: block;
+}
+.center-menu:hover .menu-button{
+    background-color: white;
+}.menu-button{
+    background-color: transparent;
+    padding: 6px;
+    font-size: 14px;
+    border: 1px solid white;
+}
+.center-menu{
+    position: relative;
+    display: inline-block;
+    float: center;
+}
+.dropdown-menu{
+    display: none;
+    position: absolute;
+    background-color: lightgrey;
+    min-width: 158px;
+    z-index: 1;
+}
+.dropdown-menu a:hover{
+    background-color: lightgrey;
+    color: black;
+}
+.center-menu:hover .dropdown-menu{
+    display: block;
+}
+.center-menu:hover .menu-button{
+    background-color: white;
+}
